@@ -1,12 +1,33 @@
-## Hi there 👋
+```Texto
+  ____  _       _____                _                     
+ / ___|(_)_ __ |  ___| __ ___  _ __ | |_ ___ _ __ __ _ ___ 
+ \___ \| | '_ \| |_ | '__/ _ \| '_ \| __/ _ \ '__/ _` / __|
+  ___) | | | | |  _|| | | (_) | | | | ||  __/ | | (_| \__ \
+ |____/|_|_| |_|_|  |_|  \___/|_| |_|\__\___|_|  \__,_|___/
+                                                           
 
-<!--
 
-**Here are some ideas to get you started:**
+```
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<img align='right' src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="230">
+ 
+</em></p>
+
+
+```javascript
+import SoftwareDeveloper from 'Corporación Educativa SinFronteras';
+
+class Bio extends Educativa {
+  company  = 'Corporación Educativa SinFronteras';
+  location = 'Cúcuta, Co';
+}
+
+```
+
+**Skills** 
+[![GitHub Corporación Educativa SinFronteras.](https://img.shields.io/github/followers/Corporacion-Educativa-SinFronteras?label=follow&style=social)](https://github.com/Corporacion-Educativa-SinFronteras) 
+
+```text
+⌚︎ Timezone: America/Bogota
+
+```
